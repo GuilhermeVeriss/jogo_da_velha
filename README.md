@@ -1,2 +1,2 @@
-# jogo_da_velha
+# Jogo da Velha
 Um simples jogo da velha programado em Javascript
